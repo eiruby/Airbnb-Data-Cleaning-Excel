@@ -1,5 +1,7 @@
 ## Data Cleaning Process
 
+This project showcases the data cleaning process of the [Airbnb Open Data](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/data) using Excel. The dataset was sourced from Kaggle and contains information about Airbnb listings in New York City.
+
 1. **Remove Duplicates**
    ![removed duplicates](images/removed_duplicates.png)
 
